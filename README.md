@@ -8,7 +8,7 @@ Date: 7/14/2025
 Before running the scripts, set up a virtual environment:
 ```powershell
 # Create virtual environment
-py -3.11 -m venv .venv
+py -m venv .venv
 
 # Activate virtual environment (Windows)
 venv\Scripts\activate
